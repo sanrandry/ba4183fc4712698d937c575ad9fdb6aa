@@ -15,7 +15,7 @@ export default function Home() {
             </Head>
 
             <main className={styles.main}>
-                <h1>test</h1>
+                <h1>test slack</h1>
 
                 <div className="alert alert-primary" role="alert">
                     This is a primary alert—check it out!
