@@ -1,5 +1,4 @@
 import React from "react";
-import Form from "../../components/example/Form";
 import ExampleLayout from "../../components/layouts/example/ExampleLayout";
 import Hero from "../../components/example/indexPageComponents/Hero";
 import BasicElement from "../../components/example/indexPageComponents/BasicElement";
@@ -31,7 +30,6 @@ export default function index() {
                     <SectionExample></SectionExample>
                     <SectionDownload></SectionDownload>
                 </div>
-                <Form></Form>
             </div>
         </ExampleLayout>
     );
