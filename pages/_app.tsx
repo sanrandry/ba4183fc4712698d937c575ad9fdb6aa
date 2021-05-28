@@ -1,5 +1,5 @@
 import "../styles/globals.scss";
-import "../styles/scss/blk-design-system.scss";
+// import "../styles/scss/blk-design-system.scss";
 import type { AppProps } from "next/app";
 import Head from "next/head";
 
@@ -51,7 +51,7 @@ function MyApp({ Component, pageProps }: AppProps) {
                 <script src="/assets/demo/demo.js"></script>
                 {/* <!-- Control Center for Black UI Kit: parallax effects, scripts for the example pages etc --> */}
                 <script
-                    src="/assets/js/blk-design-system.min.js?v=1.0.0"
+                    src="/assets/js/blk-design-system.js"
                     type="text/javascript"
                 ></script>
             </Head>
