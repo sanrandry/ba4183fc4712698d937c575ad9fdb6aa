@@ -15,7 +15,7 @@ import SectionDownload from "../../components/example/indexPageComponents/Sectio
 export default function index() {
     return (
         <ExampleLayout>
-            <div className="wrapper">
+            <div className="wrapper example-index-page">
                 <Hero></Hero>
                 <div className="main">
                     <BasicElement></BasicElement>

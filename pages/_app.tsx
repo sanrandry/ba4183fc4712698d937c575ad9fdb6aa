@@ -17,7 +17,7 @@ function MyApp({ Component, pageProps }: AppProps) {
                     rel="stylesheet"
                 />
                 {/* <!-- Nucleo Icons --> */}
-                <link href="./assets/css/nucleo-icons.css" rel="stylesheet" />
+                <link href="/assets/css/nucleo-icons.css" rel="stylesheet" />
                 {/* <!--   Core JS Files   --> */}
                 <script
                     src="/assets/js/core/jquery.min.js"
