@@ -6,37 +6,23 @@ export default function FrontEndLayoutFooter() {
             <div className="container">
                 <div className="row">
                     <div className="col-md-3">
-                        <h1 className="title">BLK•</h1>
+                        <h1 className="title">KOOLI•</h1>
                     </div>
                     <div className="col-md-3">
                         <ul className="nav">
                             <li className="nav-item">
-                                <a href="./index.html" className="nav-link">
-                                    Home
+                                <a href="#" className="nav-link">
+                                    Accueil
                                 </a>
                             </li>
                             <li className="nav-item">
-                                <a
-                                    href="./examples/landing-page.html"
-                                    className="nav-link"
-                                >
-                                    Landing
+                                <a href="#" className="nav-link">
+                                    À propos de nous
                                 </a>
                             </li>
                             <li className="nav-item">
-                                <a
-                                    href="./examples/register-page.html"
-                                    className="nav-link"
-                                >
-                                    Register
-                                </a>
-                            </li>
-                            <li className="nav-item">
-                                <a
-                                    href="./examples/profile-page.html"
-                                    className="nav-link"
-                                >
-                                    Profile
+                                <a href="#" className="nav-link">
+                                    Nos Service
                                 </a>
                             </li>
                         </ul>
@@ -44,34 +30,17 @@ export default function FrontEndLayoutFooter() {
                     <div className="col-md-3">
                         <ul className="nav">
                             <li className="nav-item">
-                                <a
-                                    href="https://creative-tim.com/contact-us"
-                                    className="nav-link"
-                                >
-                                    Contact Us
+                                <a href="#" className="nav-link">
+                                    Nous-contactez
                                 </a>
                             </li>
                             <li className="nav-item">
-                                <a
-                                    href="https://creative-tim.com/about-us"
-                                    className="nav-link"
-                                >
-                                    About Us
+                                <a href="#" className="nav-link">
+                                    À propos de nous
                                 </a>
                             </li>
                             <li className="nav-item">
-                                <a
-                                    href="https://creative-tim.com/blog"
-                                    className="nav-link"
-                                >
-                                    Blog
-                                </a>
-                            </li>
-                            <li className="nav-item">
-                                <a
-                                    href="https://opensource.org/licenses/MIT"
-                                    className="nav-link"
-                                >
+                                <a href="#" className="nav-link">
                                     License
                                 </a>
                             </li>
@@ -97,15 +66,6 @@ export default function FrontEndLayoutFooter() {
                                 data-original-title="Like us"
                             >
                                 <i className="fab fa-facebook-square"></i>
-                            </a>
-                            <a
-                                target="_blank"
-                                href="https://dribbble.com/creativetim"
-                                className="btn btn-icon btn-neutral  btn-round btn-simple"
-                                data-toggle="tooltip"
-                                data-original-title="Follow us"
-                            >
-                                <i className="fab fa-dribbble"></i>
                             </a>
                         </div>
                     </div>

@@ -2,6 +2,8 @@ import Head from "next/head";
 import Image from "next/image";
 import FrontEndLayout from "../components/layouts/frontend/FrontEndLayout";
 import Hero from "../components/indexPageComponents/Hero";
+import About from "../components/indexPageComponents/About";
+import Pricing from "../components/indexPageComponents/Pricing";
 
 export default function Home() {
     return (
@@ -17,6 +19,8 @@ export default function Home() {
             <FrontEndLayout>
                 <div className="wrapper index-page">
                     <Hero></Hero>
+                    <About></About>
+                    <Pricing></Pricing>
                 </div>
             </FrontEndLayout>
         </>
